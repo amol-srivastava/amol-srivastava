@@ -27,12 +27,6 @@
   </h2>
 </div>
 
-### [Connects](https://github.com/amol-srivastava/connects)
-A startup aimed at revolutionizing student roommate discovery by introducing a swipe-based interface.
-- Utilized React Native and AWS Amplify to build and deploy Connects.
-- Implemented real-time chat functionality using Firebase.
-- Developed predictive algorithms to enhance roommate matching accuracy by **80%**.
-
 ### [AI-Image Generator](https://github.com/amol-srivastava/ai-image-generator)
 An application enabling users to generate AI-driven images, leveraging OpenAI's DALL-E 3 model.
 - Designed a dynamic front-end interface using React and JavaScript.
