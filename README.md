@@ -61,5 +61,3 @@ A React.js and Bootstrap-based finance dashboard for family use.
 </div>
 
 ---
-
-*This README was created using Markdown and GitHub profile README conventions.*
