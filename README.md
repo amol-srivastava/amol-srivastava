@@ -28,7 +28,7 @@
   </h2>
 </div>
 
-### [Premier League Game Winner Predictor](https://github.com/amol-srivastava/premier-league-predictor)
+### [Premier League Game Winner Predictor](https://github.com/amol-srivastava/Machine-Learning-Model)
 Developed an ML model to predict premier league game winners using historical data.
 - Implemented a Python-based web scraper using requests to download data for 1500+ matches.
 - Utilized BeautifulSoup to effectively parse and sanitize data, achieving 95% accuracy in extracting statistics.
