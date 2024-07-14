@@ -30,17 +30,9 @@
 
 ### [Premier League Game Winner Predictor](https://github.com/amol-srivastava/Machine-Learning-Model)
 Developed an ML model to predict premier league game winners using historical data.
-- Implemented a Python-based web scraper using requests to download data for 1500+ matches.
-- Utilized BeautifulSoup to effectively parse and sanitize data, achieving 95% accuracy in extracting statistics.
-- Created a dynamic visualization dashboard using Jupyter and Matplotlib to showcase predictions.
 
 ### [AI-Image Generator](https://github.com/amol-srivastava/ai-image-generator)
 An application enabling users to generate AI-driven images, leveraging OpenAI's DALL-E 3 model.
-- Designed a dynamic front-end interface using React and JavaScript.
-- Built a robust back-end server with Node.js and Express.js.
-- Optimized image generation performance, reducing latency by **45%**.
-
----
 
 <div align="center">
   <h2 style="color: black;">
