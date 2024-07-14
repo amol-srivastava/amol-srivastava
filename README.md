@@ -12,11 +12,11 @@
 ## Technologies I've Worked With
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/9d993595-8ab8-44c1-afcf-c125d8f135ab" alt="Image 1" width="105" height="105">
-  <img src="https://github.com/user-attachments/assets/722cbe51-bca9-4c6b-9943-5f78ed60ae3b" alt="React Logo" width="105" height="105">
-  <img src="https://github.com/user-attachments/assets/e56f3ab1-053e-4a3f-8590-f78c8652a978" alt="JavaScript Logo" width="105" height="105">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="Python Logo" width="105" height="105">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Logo" width="105" height="105">
+  <img src="https://github.com/user-attachments/assets/9d993595-8ab8-44c1-afcf-c125d8f135ab" alt="Image 1" width="50" height="50">
+  <img src="https://github.com/user-attachments/assets/722cbe51-bca9-4c6b-9943-5f78ed60ae3b" alt="React Logo" width="50" height="50">
+  <img src="https://github.com/user-attachments/assets/e56f3ab1-053e-4a3f-8590-f78c8652a978" alt="JavaScript Logo" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="Python Logo" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Logo" width="50" height="50">
 </div>
 
 ---
