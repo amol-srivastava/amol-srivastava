@@ -118,3 +118,4 @@ An application enabling users to generate AI-driven images, leveraging OpenAI's 
     <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
+
