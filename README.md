@@ -28,23 +28,17 @@
   </h2>
 </div>
 
-### [Connects](https://github.com/amol-srivastava/connects)
-A startup aimed at revolutionizing student roommate discovery by introducing a swipe-based interface.
-- Utilized React Native and AWS Amplify to build and deploy Connects.
-- Implemented real-time chat functionality using Firebase.
-- Developed predictive algorithms to enhance roommate matching accuracy by **80%**.
+### [Premier League Game Winner Predictor](https://github.com/amol-srivastava/premier-league-predictor)
+Developed an ML model to predict premier league game winners using historical data.
+- Implemented a Python-based web scraper using requests to download data for 1500+ matches.
+- Utilized BeautifulSoup to effectively parse and sanitize data, achieving 95% accuracy in extracting statistics.
+- Created a dynamic visualization dashboard using Jupyter and Matplotlib to showcase predictions.
 
 ### [AI-Image Generator](https://github.com/amol-srivastava/ai-image-generator)
 An application enabling users to generate AI-driven images, leveraging OpenAI's DALL-E 3 model.
 - Designed a dynamic front-end interface using React and JavaScript.
 - Built a robust back-end server with Node.js and Express.js.
 - Optimized image generation performance, reducing latency by **45%**.
-
-### [Finance Dashboard](https://github.com/amol-srivastava/finance-dashboard)
-A React.js and Bootstrap-based finance dashboard for family use.
-- Processed **1000+ transactions**.
-- Enacted a secure Node.js and Express.js backend, reducing overspending risks by **15%**.
-- Integrated MongoDB for efficient management of transaction and budget data.
 
 ---
 
