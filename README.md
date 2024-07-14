@@ -28,11 +28,15 @@
   </h2>
 </div>
 
+---
+
 ### [Premier League Game Winner Predictor](https://github.com/amol-srivastava/Machine-Learning-Model)
-Developed an ML model to predict premier league game winners using historical data.
+Developed an ML model to predict Premier League game winners using historical data.
 
 ### [AI-Image Generator](https://github.com/amol-srivastava/ai-image-generator)
 An application enabling users to generate AI-driven images, leveraging OpenAI's DALL-E 3 model.
+
+---
 
 <div align="center">
   <h2 style="color: black;">
@@ -45,5 +49,3 @@ An application enabling users to generate AI-driven images, leveraging OpenAI's 
     <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
 </div>
-
----
