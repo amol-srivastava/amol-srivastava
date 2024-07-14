@@ -1,10 +1,4 @@
-<style>
-.hexagon-wrapper {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-  max-width: 400px; <div align="center">
+<div align="center">
   <h1 style="border: 2px solid black; display: inline-block; padding: 10px; background-color: white; color: black;">
     Amol Srivastava
   </h1>
