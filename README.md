@@ -1,6 +1,6 @@
 <div align="center">
   <div style="position: relative; display: inline-block; padding: 10px; background-color: white; color: black; border: 2px solid black;">
-    <h1>Hi my name is Amol/h1>
+    <h1>Hi my name is Amol</h1>
   </div>
   <div style="position: absolute; top: 0; left: 50%; transform: translateX(-50%);">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo" width="50" height="50">
