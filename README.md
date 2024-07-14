@@ -23,8 +23,8 @@
 
 <div align="center">
   <h2 style="color: black;">
-    Cool Stuff I built
-    More Coming (•‿•)
+    Some Cool Stuff I Built,
+    More Coming Soon (⌐▀͡ ̯ʖ▀)
   </h2>
 </div>
 
