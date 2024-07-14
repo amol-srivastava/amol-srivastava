@@ -23,7 +23,8 @@
 
 <div align="center">
   <h2 style="color: black;">
-    Here are some of my projects:
+    Cool Stuff I built
+    More Coming (•‿•)
   </h2>
 </div>
 
