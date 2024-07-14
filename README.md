@@ -28,7 +28,7 @@
 <div align="center">
   <h2 style="color: black;">
     Some Cool Stuff I Built,
-    More Coming Soon (⌐▀͡ ̯ʖ▀)
+    More Coming Soon (つ▀¯▀ )つ
   </h2>
 </div>
 
