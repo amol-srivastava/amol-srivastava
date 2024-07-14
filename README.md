@@ -17,11 +17,9 @@
   <img src="https://github.com/user-attachments/assets/e56f3ab1-053e-4a3f-8590-f78c8652a978" alt="JavaScript Logo" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="Python Logo" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Logo" width="50" height="50">
-  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js Logo" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js Logo" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="50" height="50">
   
 </div>
 
