@@ -9,7 +9,7 @@
 
 ---
 
-## Technologies I've Worked With
+## <div align="center">Tech I Have Worked With</div>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/9d993595-8ab8-44c1-afcf-c125d8f135ab" alt="Image 1" width="50" height="50">
@@ -17,6 +17,18 @@
   <img src="https://github.com/user-attachments/assets/e56f3ab1-053e-4a3f-8590-f78c8652a978" alt="JavaScript Logo" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" alt="Python Logo" width="50" height="50">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Logo" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_programming_language_logo.svg" alt="Java Logo" width="50" height="50">
+  <img src="https://nodejs.org/static/images/logo.svg" alt="Node.js Logo" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js Logo" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js Logo" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript Logo" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL Logo" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Mongodb.svg" alt="MongoDB Logo" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Amazon_Web_Services_Logo.svg" alt="AWS Logo" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Amazon_AWS_Logo.svg" alt="AWS Logo" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C# Logo" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="Jenkins Logo" width="50" height="50">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jira_Software_logo.svg" alt="JIRA Logo" width="50" height="50">
 </div>
 
 ---
