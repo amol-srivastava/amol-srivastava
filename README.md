@@ -27,4 +27,3 @@ I am a senior at Rutgers University, majoring in Computer Science, with a strong
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/amol-srivastava"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amol-srivastava&stroke=ffffff&background=1c1917&ring=84cc16&fire=84cc16&currStreakNum=ffffff&currStreakLabel=84cc16&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
