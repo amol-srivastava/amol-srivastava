@@ -6,9 +6,8 @@ Software/Machine Learning Engineer
 
 I am a senior at Rutgers University, majoring in Computer Science, with a strong focus on both software engineering and machine learning. My passion lies in solving complex problems and transforming data into actionable insights. I have developed predictive models that significantly enhance accuracy and efficiency, demonstrating my ability to leverage advanced algorithms. In addition to my machine learning expertise, I have a solid background in software engineering, where I have designed and implemented robust, scalable systems. Driven by a curiosity to understand the intricacies of data and a commitment to continuous learning, I strive to innovate and excel in both fields.
 
-* 🌍  I'm based in New York
 * ✉️  You can contact me at [amolsrivastava28@gmail.com](mailto:amolsrivastava28@gmail.com)
-* 🧠  I'm learning Mathamatical Implications in Machine Learning
+* 🧠  I'm currently learning Mathamatical Implications in Machine Learning
 * 🤝  I'm open to collaborating on Interesting Projects
 
 ### Skills
