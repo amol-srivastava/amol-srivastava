@@ -1,15 +1,18 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amol Srivastava
 =======================================================================================================================================
 
-Software/Machine Learning Engineer
+Finance|Tech 
 ----------------------------------
 
-I am a senior at Rutgers University, majoring in Computer Science, with a strong focus on both software engineering, data anaylyis, and  machine learning. My passion lies in solving complex problems and transforming data into actionable insights. I have developed predictive models that significantly enhance accuracy and efficiency, demonstrating my ability to leverage advanced algorithms. In addition to my machine learning expertise, I have a solid background in software engineering, where I have designed and implemented robust, scalable systems. Driven by a curiosity to understand the intricacies of data and a commitment to continuous learning, I strive to innovate and excel in both fields.
+ am a senior at Rutgers University, majoring in Computer Science, with a strong focus on software engineering, data analysis, and financial technology. My expertise lies in developing scalable systems, analyzing complex datasets, and leveraging machine learning to drive actionable insights. With a keen interest in finance and quantitative modeling, I have worked on predictive analytics and financial algorithms that enhance decision-making processes.
 
-* ✉️  You can contact me at [amolsrivastava28@gmail.com](mailto:amolsrivastava28@gmail.com)
-* 🧠  I'm currently learning Mathamatical Implications in Machine Learning
-* 🤝  I'm open to collaborating on Interesting Projects
+Beyond my technical expertise, I am passionate about the intersection of finance and technology. Whether it’s optimizing trading strategies, automating financial reports, or building robust fintech solutions, I am always eager to solve industry challenges with cutting-edge technology.
 
+✉️ You can contact me at amolsrivastava28@gmail.com
+
+🧠 I'm currently exploring Quantitative Finance & Algorithmic Trading
+
+🤝 I'm open to collaborating on FinTech & AI-driven projects
 ### Skills
 
 
