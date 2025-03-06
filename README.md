@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amol Srivastava
 =======================================================================================================================================
 
-Finance|Tech 
+Finance & Tech 
 ----------------------------------
 
 I am a senior at Rutgers University, majoring in Computer Science, with a strong focus on software engineering, data analysis, and financial technology. My expertise lies in developing scalable systems, analyzing complex datasets, and leveraging machine learning to drive actionable insights. With a keen interest in finance and quantitative modeling, I have worked on predictive analytics and financial algorithms that enhance decision-making processes.
 
 Beyond my technical expertise, I am passionate about the intersection of finance and technology. Whether it’s optimizing trading strategies, automating financial reports, or building robust fintech solutions, I am always eager to solve industry challenges with cutting-edge technology.
 
-✉️ You can contact me at amolsrivastava28@gmail.com
+✉️ You can contact me at amol_srivastava@outlook.com
 
 🧠 I'm currently exploring Quantitative Finance & Algorithmic Trading
 
